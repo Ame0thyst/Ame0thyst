@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ame0thyst
-- 👀 I’m interested in software engineering and everything relate
-- 🌱 I’m currently learning java language and web programming
+- 👋 Hi, I’m @meyy
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently learning  web programming
 - 💞️ I’m looking to collaborate on .
 - 📫 @ikoo___15
-- 21 Yr
+- 22 Yr
 
 <!---
 Ame0thyst/Ame0thyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
