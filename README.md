@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning  web programming
 - 💞️ I’m looking to collaborate on .
-- 📫 @ikoo___15
+- 📫 
 - 22 Yr
 
 <!---
