@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meyy
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning  web programming
+- 🌱 I’m currently learning  cloud computing 
 - 💞️ I’m looking to collaborate on .
 - 📫 
 - 22 Yr
