@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **gilang.ikoo15@gmail.com**
 
-- 📄 Know about my experiences [www.google.com](www.google.com)
+- 📄 Know about my experiences [here](www.google.com)
 
 - ⚡ Fun fact **i think i am a human**
 
