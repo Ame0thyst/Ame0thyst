@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Meyy</h1>
-<h3 align="center">A passionate Full Stack developer from Indonesia</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ame0thyst&label=Profile%20views&color=0e75b6&style=flat" alt="ame0thyst" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ame0thyst" alt="ame0thyst" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<div align="center"> <img src="#"> </div>
+<h3 align="center">A passionate Full Stack developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🌱 I’m currently learning **Cloud Engineer**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [www.google.com](www.meecodes.com)
 
-- 📝 I regularly write articles on [www.google.com](www.google.com)
+- 📝 I regularly write articles on [www.google.com](www.meecodes.com)
 
 - 💬 Ask me about **HTML, Javascript**
 
