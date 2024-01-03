@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Cloud Engineer**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.meecodes.com)
+- 👨‍💻 All of my projects are available at [here](www.meecodes.com)
 
-- 📝 I regularly write articles on [www.google.com](www.meecodes.com)
+- 📝 I regularly write articles on [here](www.meecodes.com)
 
 - 💬 Ask me about **HTML, Javascript**
 
