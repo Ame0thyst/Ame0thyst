@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meyy</h1>
 <h3 align="center">makan yang teratur</h3>
 <p align="left">
+  <p>Connect with me :</p>
 <a href="https://dev.to/meyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gilangikoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilangikoo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ame0thyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ame0thyst" height="30" width="40" /></a>
