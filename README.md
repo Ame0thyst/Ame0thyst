@@ -38,25 +38,6 @@ progressive web applications which support responsive, localization and multi-th
   <img src="https://profile-counter.glitch.me/Ame0thyst/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ame0thyst/Ame0thyst/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=@Tohid_Eq&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="telegram logo"  />
-  <a href="@TohidEq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@TohidEq&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="discord logo"  />
-  </a>
-  <a href="mailto:TohidEq@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/18447603/tohideq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="stackoverflow logo"  />
-  </a>
-</div>
-
 
 
 ####
