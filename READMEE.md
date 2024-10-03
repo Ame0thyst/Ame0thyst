@@ -120,3 +120,4 @@
 </div>
 
 ###
+link perbarui game ular : platane.github.io/snk
