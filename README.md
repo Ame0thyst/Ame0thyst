@@ -11,7 +11,7 @@ progressive web applications which support responsive, localization and multi-th
 
 ###
 
-<p align="left">✨ Practical searching & self-learning & are my other abilities<br>🌱 I'm on track with learning more about Front-End, Design, DevOps and new stuff.<br>💬 You can drop me an email at <a href="gilang.ikoo15@gmail.com" target="_blank">📧 TohidEq@gmail.com </a> with a subject containing "GitHub: ..."! It will be a pleasure to talk with you! </p>
+<p align="left">✨ Practical searching & self-learning & are my other abilities<br>🌱 I'm on track with learning more about Front-End, Design, DevOps and new stuff.<br>💬 You can drop me an email at <a href="gilang.ikoo15@gmail.com" target="_blank">📧 Gilang Ikoo </a> with a subject containing "GitHub: ..."! It will be a pleasure to talk with you! </p>
 
 ###
 
