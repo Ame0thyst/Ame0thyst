@@ -40,7 +40,7 @@ progressive web applications which support responsive, localization and multi-th
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ame0thyst/TohidEq/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ame0thyst/Ame0thyst/output/snake.svg" alt="Snake animation" />
 
 ###
 
