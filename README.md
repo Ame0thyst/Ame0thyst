@@ -7,11 +7,11 @@
 ###
 
 <p align="left">I am a junior web developer with over 2 years of experience.<br>I use JavaScript, TypeScript, and specifically the ReactJS library and NextJS framework to build
-progressive web applications which support responsive, localization and multi-theme (like dark mode) (<a href="/Tohid Eghdami Resume.pdf" target="_blank">📜 Resume</a>)<!-- & 2-way direction (soon) --></p>
+progressive web applications which support responsive, localization and multi-theme (like dark mode) (<a href="#link pdf simpan aja di dalam sini juga" target="_blank">📜 Resume</a>)<!-- & 2-way direction (soon) --></p>
 
 ###
 
-<p align="left">✨ Practical searching & self-learning & are my other abilities<br>🌱 I'm on track with learning more about Front-End, Design, DevOps and new stuff.<br>💬 You can drop me an email at <a href="mailto:TohidEq@gmail.com" target="_blank">📧 TohidEq@gmail.com </a> with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!<br>⚡ In my free time, I enjoy working out & watching series & playing games with my friends (<a href="http://steamcommunity.com/id/tohideq" target="_blank">🎮 My Steam</a>) </p>
+<p align="left">✨ Practical searching & self-learning & are my other abilities<br>🌱 I'm on track with learning more about Front-End, Design, DevOps and new stuff.<br>💬 You can drop me an email at <a href="gilang.ikoo15@gmail.com" target="_blank">📧 TohidEq@gmail.com </a> with a subject containing "GitHub: ..."! It will be a pleasure to talk with you! </p>
 
 ###
 
