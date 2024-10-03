@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tohid and I'm a Front-End Developer from Iran</h2>
+<h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
 ###
 
@@ -18,7 +18,7 @@ progressive web applications which support responsive, localization and multi-th
 ###
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/16b0660b70890d12cef012b251931b76e5f759723650e94a2b6df169be7ddaaf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416d6530746879737426686964655f7469746c653d7472756526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d6769746875625f6461726b266c6f63616c653d656e26686964655f626f726465723d74727565266f726465723d31" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ame0thyst&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
 </div>
 
 ###
