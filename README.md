@@ -27,9 +27,9 @@ progressive web applications which support responsive, localization and multi-th
   <img src="https://streak-stats.demolab.com?user=Ame0thyst&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ame0thyst&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-###
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ame0thyst&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-###
+
 
 <h3 align="center">Profile views</h3>
 
