@@ -5,7 +5,7 @@
 <h3 align="left">Dream it. Believe it. Build it.</h3>
 
 ###
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; align:center;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; align:center; gap: 10px; margin-left:20%; margin-right:20%;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
