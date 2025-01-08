@@ -5,6 +5,16 @@
 <h3 align="left">Dream it. Believe it. Build it.</h3>
 
 ###
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="42" height="42" />
+</div>
+
+###
 
 <p align="left">I am a junior web developer with over 2 years of experience.<br>I use JavaScript, TypeScript, and specifically the ReactJS library and NextJS framework to build
 progressive web applications which support responsive, localization and multi-theme (like dark mode) (<a href="#link pdf simpan aja di dalam sini juga" target="_blank">📜 Resume</a>)<!-- & 2-way direction (soon) --></p>
