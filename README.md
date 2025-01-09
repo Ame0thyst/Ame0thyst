@@ -24,11 +24,6 @@
 
 ###
 
-<p align="left">I am a junior web developer with over 2 years of experience.<br>I use JavaScript, TypeScript, and specifically the ReactJS library and NextJS framework to build
-progressive web applications which support responsive, localization and multi-theme (like dark mode) (<a href="#link pdf simpan aja di dalam sini juga" target="_blank">📜 Resume</a>)<!-- & 2-way direction (soon) --></p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ame0thyst&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
 </div>
