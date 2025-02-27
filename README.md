@@ -1,5 +1,19 @@
 <h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+
+- 🔭 Currently Working on several Computer Vision projects.
+- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
+- 👯 Eager to collaborate on exciting Computer Vision research projects.
+- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
+- 💬 Ask me about anything related to cutting-edge tech and research.
+- 📫 Reach me at: [Gmail](gilang.ikoo15@gmail.com)
+- 😄 Pronouns: He/Him
+- 🧾 Check out my [resume](#masukinlink).
+- 📝 I sometimes write articles on [my blog](#masukinlink).
+- ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
+
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
