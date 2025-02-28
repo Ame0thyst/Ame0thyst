@@ -1,6 +1,7 @@
+<img align="center" src="./gifs/klee-hi.gif" />
 <h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="./gifs/octocat-anime.gif" />
 
 - 🔭 Currently Working on several machine learning projects.
 - 🧮 Expanding my knowledge in differential environment.
