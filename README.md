@@ -1,6 +1,7 @@
-<picture>
-<img align="center" src="./gifs/klee-hi.gif" />
-</picture>
+<div style="text-align: center;">
+    <img src="./gifs/klee-hi.gif" />
+</div>
+
 <h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
 <img align="right" src="./gifs/cat-joged.gif"  />
