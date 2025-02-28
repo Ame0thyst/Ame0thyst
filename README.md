@@ -116,3 +116,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<p align="center">
+   <img src="./gifs/minion-yee.gif" />
+</p>
