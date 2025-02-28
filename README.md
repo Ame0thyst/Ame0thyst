@@ -3,12 +3,12 @@
 </picture>
 <h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
-<img align="right" src="./gifs/klee-gemoy.gif" style="width: 150px; height: auto;" />
+<img align="right" src="./gifs/klee-gemoy.gif" style="width: 30%; height: auto;" />
 
 - 🔭 Currently Working on several machine learning projects.
 - 🧮 Expanding my knowledge in differential environment.
 - 👯 Eager to collaborate on exciting Computer Vision research projects.
-- 🤔 Actively looking for freelance in machine learning & deep learning.
+- 🤔 Actively looking for freelance in machine learning & deep learning
 - 💬 Ask me about anything related to machine learning.
 - 📫 Reach me at: [Gmail](gilang.ikoo15@gmail.com)
 <!-- - 😄 Pronouns: He/Him -->
