@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="./gifs/klee-hi.gif" />
-</div>
 
 
+<p align="center">
+   <img src="./gifs/klee-hi.gif" />
+</p>
 <h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
 <img align="right" src="./gifs/cat-joged.gif"  />
