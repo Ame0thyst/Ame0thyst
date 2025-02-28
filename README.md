@@ -2,16 +2,16 @@
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 🔭 Currently Working on several Computer Vision projects.
-- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
+- 🔭 Currently Working on several machine learning projects.
+- 🧮 Expanding my knowledge in differential environment.
 - 👯 Eager to collaborate on exciting Computer Vision research projects.
-- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
-- 💬 Ask me about anything related to cutting-edge tech and research.
+- 🤔 Actively looking for freelance in machine learning & deep learning.
+- 💬 Ask me about anything related to machine learning.
 - 📫 Reach me at: [Gmail](gilang.ikoo15@gmail.com)
-- 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](#masukinlink).
-- 📝 I sometimes write articles on [my blog](#masukinlink).
-- ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
+<!-- - 😄 Pronouns: He/Him -->
+<!-- - 🧾 Check out my [resume](#masukinlink).
+- 📝 I sometimes write articles on [my blog](#masukinlink). -->
+<!-- - ⚡ Fun fact: I spend more time thinking about  than writing them 🤣 -->
 
 
 <!--Languages and Tools Section-->       
