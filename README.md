@@ -1,9 +1,9 @@
 
-
+<h2 align="center">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 <p align="center">
    <img src="./gifs/klee-gemoy.gif" />
 </p>
-<h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
+
 
 <img align="right" src="./gifs/minion-1.gif"  />
 
