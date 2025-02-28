@@ -3,7 +3,7 @@
 </picture>
 <h2 align="left">Hi 👋! My name is Ikoo and I'm a IT Ethusiast</h2>
 
-<img align="right" src="./gifs/cat-joged.gif" />
+<img align="right" src="./gifs/klee-gemoy.gif" />
 
 - 🔭 Currently Working on several machine learning projects.
 - 🧮 Expanding my knowledge in differential environment.
