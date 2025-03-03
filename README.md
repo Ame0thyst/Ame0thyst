@@ -54,7 +54,7 @@
 <br />
 
 
-
+<!-- 
 ###
 
 <h3 align="left">Dream it. Believe it. Build it.</h3>
@@ -73,7 +73,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
 </div>
-</div>
+</div> -->
 
 
 
